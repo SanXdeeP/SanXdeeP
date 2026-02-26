@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanXdeeP
-- 👀 I’m interested in ...PHOTOGRAPHY 
+- 👀 I’m interested in ...PHOTOGRAPHY, WRITING
 - 🌱 I’m currently learning ...B.TECH CSE-AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
