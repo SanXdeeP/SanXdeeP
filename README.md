@@ -48,7 +48,7 @@ Here are some of the projects I'm working on:
 
 ## ✍️ Blog
 
-The Curious Explorer — sanxventure.blogspot.com
+The Curious Explorer — https://sanxventure.blogspot.com
 Capturing emotions and untold stories hidden behind everyday moments and photographs — turning simple scenes into cinematic and deeply relatable experiences. (Occasionally updated)
 
 ---
