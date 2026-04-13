@@ -1,27 +1,37 @@
 # Hi, I'm Sandeep Singh 👋
 
 🎓 B.Tech CSE (AI) Student
-💻 Aspiring Software Developer | Learning Python, Web Development, and AI
+💻 Building real projects in Python, Web Development, and AI.
 📍 India
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Currently focused on building real-world Python and Web Development projects
-* 💡 Interested in Artificial Intelligence, automation, and problem-solving
-* 📸 Photographer and creative thinker with storytelling skills
-* 🧠 Always learning and improving step by step
+Aspiring full stack developer focused on building clean, real-world projects. I design and develop complete websites — from frontend to backend and database — for businesses, creators, and individuals. I combine creativity and technical thinking to deliver websites that look great and actually work. Always learning, always improving.
+
 
 ---
 
 ## 🛠️ Skills
 
-* Programming: Python, C (basic)
-* Web: HTML, CSS (learning JavaScript)
+* Languages: Python, C, HTML, CSS, JavaScript (learning)
+* Web: Frontend, Backend, Database, Responsive Design, UI Layout
 * Tools: Git, GitHub, VS Code
-* Other: Problem Solving, Logic Building
+* Creative: Photography, Visual Storytelling, Creative Writing, Blogging
+* Other: Problem Solving, Logic Building, Attention to Detail
+---
+## 💼 Freelance Services
 
+Available for freelance projects:
+
+* 🌐 Full Stack Website Development
+* 🎨 Frontend Design & Development
+* ⚙️ Backend Development
+* 🗄️ Database Integration
+* 📱 Responsive & Mobile-Friendly Websites
+
+   📩 Interested in working together? Reach out at sanxshotsg@gmail.com
 ---
 
 ## 📂 Projects
@@ -30,21 +40,28 @@ Here are some of the projects I'm working on:
 
 * 📁 Smart File Organizer (Python Automation)
 * 🎓 Student Management System (Python)
-* 🌐 Personal Portfolio Website
-* 🤖 AI Chatbot (Python)
+* 🌐 Personal Portfolio — portfoliosandeep.c36.airoapp.ai
+* 🏥 SkinClarity — A professional dermatology clinic website built to establish trust and drive consultations. Clean layout with warm aesthetics and a strong booking flow. (HTML, CSS, JavaScript, Airo Builder) — Live
 * 📸 Photography Portfolio Website (Planned)
+
+---
+
+## ✍️ Blog
+
+The Curious Explorer — sanxventure.blogspot.com
+Capturing emotions and untold stories hidden behind everyday moments and photographs — turning simple scenes into cinematic and deeply relatable experiences. (Occasionally updated)
 
 ---
 
 ## 🎯 Goals
 
-* Build strong real-world projects
-* Become job-ready by mastering development skills
-* Contribute to open-source projects
+* Build job-ready skills through real projects
+* Master full-stack web development
+* Contribute to open-source
 
 ---
 
-## 📫 Contact Me
+## 📫 Reach Me
 
 * GitHub: https://github.com/Master-SanX
 * Email: [prosandeepsinghg@gmail.com](mailto:prosandeepsinghg@gmail.com)
@@ -53,4 +70,4 @@ Here are some of the projects I'm working on:
 
 ## ⚡ Fun Fact
 
-I combine creativity and technology — from photography storytelling to building software.
+I combine creativity and technology  from photography storytelling to building software.
