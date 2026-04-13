@@ -31,7 +31,7 @@ Available for freelance projects:
 * 🗄️ Database Integration
 * 📱 Responsive & Mobile-Friendly Websites
 
-   📩 Interested in working together? Reach out at sanxshotsg@gmail.com
+   📩 Interested in working together? Reach out at sanxshots@gmail.com
 ---
 
 ## 📂 Projects
